@@ -162,6 +162,7 @@ header .header-content .header-content-inner h1 {
     
 }
 
+
 .section-heading {
     margin-top: 0;
     color:#fff ;
@@ -199,6 +200,7 @@ header .header-content .header-content-inner h1 {
 .section-gallery h2{
     color: #f05f40;
     font-weight: bold;
+
    }
 
 .row p{
@@ -249,12 +251,13 @@ margin-top:8%;
     color: #fff;
 
 }
-video {
+iframe{
     max-width: 100%;
-    height: auto;
-     margin-top: 3%;
+         margin-top: 3%;
 
+         
 }
+
 .bio{
     margin-top:5%;
 }
@@ -295,7 +298,13 @@ video {
 .col-md-4 h4{
     font-weight: bold;
     color: #f05f40;
+   
 }
 .views-picture{
     margin-top: 10%;
+}
+.col-md-4{
+     margin-left:0 !important;
+    padding-left:0 !important;
+     padding-right:0 !important;
 }
