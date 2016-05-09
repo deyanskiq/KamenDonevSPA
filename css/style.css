@@ -253,13 +253,6 @@ margin-top:8%;
     color: #fff;
 
 }
-iframe{
-    max-width: 100%;
-         margin-top: 3%;
-
-         
-}
-
 .bio{
     margin-top:5%;
 }
@@ -277,9 +270,11 @@ iframe{
 
 .performances-button{
      padding: 15px 30px;
-    font-weight: 700;
+    font-weight: large;
     border-radius: 25px;
     color:#f05f40 !important;
+     white-space: normal;
+    width: 50%;
 
 }
 .performances-button:visited{
@@ -305,8 +300,19 @@ iframe{
 .views-picture{
     margin-top: 10%;
 }
-.col-md-4{
+iframe{
      margin-left:0 !important;
     padding-left:0 !important;
      padding-right:0 !important;
+        max-width: 100%;
+         margin-top: 3%;
+
+}
+object{
+        margin-left:0 !important;
+    padding-left:0 !important;
+     padding-right:0 !important;
+        max-width: 100%;
+         margin-top: 3%;
+
 }
